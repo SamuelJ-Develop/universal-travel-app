@@ -137,8 +137,8 @@ Calendar-backed itinerary buckets that belong to a trip.
 
 ### Notes
 
-- The product doc currently says `order_index`, but this schema should not commit to floats.
-- `order_key` is deliberately named to allow issue `#3` to choose the exact ordering strategy without forcing a later rename.
+- The product doc currently says `order_index`, but implementation should use `order_key`.
+- `order_key` is a lexicographically sortable fractional-indexing string key.
 
 ## `itinerary_items`
 
@@ -279,6 +279,5 @@ export const schema = appSchema({
 
 ## Follow-on Work
 
-- Issue `#3` should decide the concrete ordering strategy behind `order_key`
 - Issue `#10` can scaffold the app around this schema contract
 - Stage 2 should map server conflict handling onto `updated_at` and Watermelon's internal sync state

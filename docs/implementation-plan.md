@@ -15,6 +15,7 @@ Resolve these before generating the first production data model:
 - Decide the Stage 4 iOS metrics strategy
 
 The recommended baseline for the first scaffold is documented in `docs/stage-1-foundation-dependency-matrix.md`.
+The ordering strategy for draggable records is documented in `docs/stage-1-ordering-strategy.md`.
 
 ## Phase 1: Repository and Architecture Foundation
 

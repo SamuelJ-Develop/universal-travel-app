@@ -49,4 +49,4 @@ This repository is set up as the GitHub foundation for the project. The core app
 - Offline map provider and Mapbox cost model
 - iOS strategy for signal metrics in Stage 4
 
-See [Project Documentation](./docs/project-documentation.md), [Implementation Plan](./docs/implementation-plan.md), [Stage 1 Foundation Decision And Dependency Matrix](./docs/stage-1-foundation-dependency-matrix.md), and [Stage 1 WatermelonDB Schema Design](./docs/stage-1-watermelondb-schema.md).
+See [Project Documentation](./docs/project-documentation.md), [Implementation Plan](./docs/implementation-plan.md), [Stage 1 Foundation Decision And Dependency Matrix](./docs/stage-1-foundation-dependency-matrix.md), [Stage 1 WatermelonDB Schema Design](./docs/stage-1-watermelondb-schema.md), and [Stage 1 Ordering Strategy](./docs/stage-1-ordering-strategy.md).
