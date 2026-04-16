@@ -30,10 +30,14 @@ Universal Travel App is a local-first travel operating system for planning compl
 
 - `.github/` GitHub templates and contribution defaults
 - `docs/` product, architecture, and implementation planning
+- `app/` Expo Router route tree
+- `components/` shared UI building blocks
+- `features/` planning and execution feature modules
+- `lib/` database and sync boundaries
 
 ## Current Status
 
-This repository is set up as the GitHub foundation for the project. The core app scaffold has not been generated yet because the dependency matrix for Expo, WatermelonDB, and NativeWind should be pinned intentionally before implementation begins.
+This repository now includes the initial Expo Stage 1 scaffold with Expo Router and NativeWind, plus the documented planning artifacts that shaped it.
 
 ## Recommended Next Build Step
 
