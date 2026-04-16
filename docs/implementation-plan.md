@@ -24,6 +24,8 @@ The recommended baseline for the first scaffold is documented in `docs/stage-1-f
 - Define WatermelonDB schemas for trips, days, items, attachments, and metrics
 - Add local JSON export
 
+The Stage 1 schema baseline for trips, days, and itinerary items is documented in `docs/stage-1-watermelondb-schema.md`.
+
 ## Phase 2: Stage 1 Product Build
 
 - Build trip creation and editing flows
