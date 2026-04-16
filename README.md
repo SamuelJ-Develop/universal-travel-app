@@ -37,9 +37,9 @@ This repository is set up as the GitHub foundation for the project. The core app
 
 ## Recommended Next Build Step
 
-1. Confirm the initial app target: Expo mobile only or Expo mobile plus web from day one.
-2. Lock framework and library versions for the first implementation pass.
-3. Scaffold Stage 1 around local data models, itinerary flows, and JSON export.
+1. Use the Stage 1 foundation decision in `docs/stage-1-foundation-dependency-matrix.md`.
+2. Scaffold Stage 1 around local data models, itinerary flows, and JSON export.
+3. Start implementation with the schema and ordering decisions that remain open.
 
 ## Key Decisions To Resolve Early
 
@@ -49,4 +49,4 @@ This repository is set up as the GitHub foundation for the project. The core app
 - Offline map provider and Mapbox cost model
 - iOS strategy for signal metrics in Stage 4
 
-See [Project Documentation](./docs/project-documentation.md) and [Implementation Plan](./docs/implementation-plan.md).
+See [Project Documentation](./docs/project-documentation.md), [Implementation Plan](./docs/implementation-plan.md), and [Stage 1 Foundation Decision And Dependency Matrix](./docs/stage-1-foundation-dependency-matrix.md).
