@@ -37,7 +37,7 @@ Universal Travel App is a local-first travel operating system for planning compl
 
 ## Current Status
 
-This repository now includes the initial Expo Stage 1 scaffold with Expo Router and NativeWind, plus the first local data implementation slice for WatermelonDB schema, ordering helpers, and preview data access.
+This repository now includes the initial Expo Stage 1 scaffold with Expo Router and NativeWind, the first local data implementation slice for WatermelonDB schema and ordering helpers, and a Stage 1 JSON export safeguard.
 
 ## Recommended Next Build Step
 
@@ -53,4 +53,4 @@ This repository now includes the initial Expo Stage 1 scaffold with Expo Router 
 - Offline map provider and Mapbox cost model
 - iOS strategy for signal metrics in Stage 4
 
-See [Project Documentation](./docs/project-documentation.md), [Implementation Plan](./docs/implementation-plan.md), [Stage 1 Foundation Decision And Dependency Matrix](./docs/stage-1-foundation-dependency-matrix.md), [Stage 1 WatermelonDB Schema Design](./docs/stage-1-watermelondb-schema.md), and [Stage 1 Ordering Strategy](./docs/stage-1-ordering-strategy.md).
+See [Project Documentation](./docs/project-documentation.md), [Implementation Plan](./docs/implementation-plan.md), [Stage 1 Foundation Decision And Dependency Matrix](./docs/stage-1-foundation-dependency-matrix.md), [Stage 1 WatermelonDB Schema Design](./docs/stage-1-watermelondb-schema.md), [Stage 1 Ordering Strategy](./docs/stage-1-ordering-strategy.md), and [Stage 1 JSON Export](./docs/stage-1-json-export.md).
