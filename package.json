@@ -11,6 +11,7 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.29.0",
     "@nozbe/watermelondb": "^0.28.0",
     "@supabase/supabase-js": "^2.103.2",
     "expo": "~54.0.33",
@@ -19,6 +20,7 @@
     "expo-linking": "~8.0.11",
     "expo-router": "~6.0.23",
     "expo-status-bar": "~3.0.9",
+    "fractional-indexing": "^3.2.0",
     "nativewind": "^4.1.23",
     "react": "19.1.0",
     "react-dom": "19.1.0",

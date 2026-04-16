@@ -37,7 +37,7 @@ Universal Travel App is a local-first travel operating system for planning compl
 
 ## Current Status
 
-This repository now includes the initial Expo Stage 1 scaffold with Expo Router and NativeWind, plus the documented planning artifacts that shaped it.
+This repository now includes the initial Expo Stage 1 scaffold with Expo Router and NativeWind, plus the first local data implementation slice for WatermelonDB schema, ordering helpers, and preview data access.
 
 ## Recommended Next Build Step
 
